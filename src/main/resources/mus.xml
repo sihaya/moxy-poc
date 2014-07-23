@@ -1,0 +1,14 @@
+<mus_configset_request>
+    <mus>
+        <mus_id>
+            <uuid>4242423423</uuid>
+        </mus_id>
+        
+        <mus_config_attr>
+            <mus_naam>123</mus_naam>
+            <mus_oms>omschrijving</mus_oms>
+            
+            <mus_soort_id>23</mus_soort_id>
+        </mus_config_attr>
+    </mus>
+</mus_configset_request>
